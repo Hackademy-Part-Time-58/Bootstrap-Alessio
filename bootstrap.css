@@ -1,33 +1,11 @@
-.Navbar-title {
-    color: rgb(255, 255, 255);
-    margin: 0px;
-}
-
-.menu {
-    padding-right: 20px;
-}
-
-p {
-    color: rgb(255, 255, 255);
-    margin-bottom: 10px;
-}
-
 .basic {
     background-image: url(./premium_photo-1683892034683-b6896f6245f9.jpeg);
-    background-position: start ;
+    background-size: cover;
 }
 
-.ricette > section {
-    cursor: pointer;
-    border: 2px solid rgb(255, 255, 255);
-    border-radius: 15px;
+* {
+    text-shadow: 2px 2px 4px black;
+    font-family: "Gidole", sans-serif;
+    
 }
 
-button {
-    border: 2px solid red;
-    border-radius: 10px;  
-}
-
-button a {
-    text-decoration: none;
-}
